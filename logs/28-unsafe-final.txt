@@ -1,0 +1,21 @@
+{
+  "run": "unsafe",
+  "fencing": 0,
+  "pointer_version": 2,
+  "pointer": {
+    "worker": "A",
+    "epoch": 1,
+    "csv": "results/unsafe/db3fb5953e52b8316ce2c1e9d158e1e1b356bdc0f88e487505ce4bb94f2b61f9.csv",
+    "source_rows": 68770,
+    "selected_rows": 869,
+    "unique_pairs": 6800,
+    "pair_contributions": 13468,
+    "sha256": "db3fb5953e52b8316ce2c1e9d158e1e1b356bdc0f88e487505ce4bb94f2b61f9",
+    "equal_to_hw3": true
+  },
+  "csv_equal_to_hw3": true,
+  "failover_seconds": 11.094586708,
+  "accepted_writes": 2,
+  "stale_publication_rejected": false,
+  "pause_seconds": 40.156821708
+}

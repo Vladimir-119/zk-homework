@@ -1,0 +1,1 @@
+SIGCONT: worker=A, pause_seconds=40.157

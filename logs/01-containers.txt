@@ -1,0 +1,4 @@
+NAME                IMAGE                    COMMAND                  SERVICE   CREATED              STATUS              PORTS
+zk-homework-zk1-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk1       About a minute ago   Up About a minute   127.0.0.1:2181->2181/tcp
+zk-homework-zk2-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk2       About a minute ago   Up About a minute   127.0.0.1:2182->2181/tcp
+zk-homework-zk3-1   zookeeper:3.9.6-jre-17   "/docker-entrypoint.…"   zk3       About a minute ago   Up About a minute   127.0.0.1:2183->2181/tcp

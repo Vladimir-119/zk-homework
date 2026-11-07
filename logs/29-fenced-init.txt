@@ -1,0 +1,1 @@
+Создан опыт /zk-homework/fenced; FENCING=1; версия указателя=0

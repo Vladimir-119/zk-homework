@@ -1,0 +1,19 @@
+{"event":"session","time":"2026-11-06T23:23:21.738215+00:00","mono_ns":301337852605708,"pid":32189,"worker":"A","requested_timeout_ms":10000,"negotiated_timeout_ms":10000}
+{"event":"became_leader","time":"2026-11-06T23:23:21.962369+00:00","mono_ns":301338076637958,"pid":32189,"worker":"A","epoch":1}
+{"event":"restored","time":"2026-11-06T23:23:21.963313+00:00","mono_ns":301338077576166,"pid":32189,"worker":"A","epoch":1,"next_row":0}
+{"event":"checkpoint","time":"2026-11-06T23:23:21.966162+00:00","mono_ns":301338080425750,"pid":32189,"worker":"A","epoch":1,"next_row":1000,"checkpoint_bytes":1790}
+{"event":"checkpoint","time":"2026-11-06T23:23:22.181342+00:00","mono_ns":301338295612458,"pid":32189,"worker":"A","epoch":1,"next_row":2000,"checkpoint_bytes":9558}
+{"event":"checkpoint","time":"2026-11-06T23:23:22.394238+00:00","mono_ns":301338508512708,"pid":32189,"worker":"A","epoch":1,"next_row":3000,"checkpoint_bytes":17016}
+{"event":"checkpoint","time":"2026-11-06T23:23:22.617106+00:00","mono_ns":301338731396958,"pid":32189,"worker":"A","epoch":1,"next_row":4000,"checkpoint_bytes":20349}
+{"event":"checkpoint","time":"2026-11-06T23:23:22.839798+00:00","mono_ns":301338954098541,"pid":32189,"worker":"A","epoch":1,"next_row":5000,"checkpoint_bytes":23263}
+{"event":"checkpoint","time":"2026-11-06T23:23:23.058483+00:00","mono_ns":301339172786750,"pid":32189,"worker":"A","epoch":1,"next_row":6000,"checkpoint_bytes":26449}
+{"event":"checkpoint","time":"2026-11-06T23:23:23.285591+00:00","mono_ns":301339399901166,"pid":32189,"worker":"A","epoch":1,"next_row":7000,"checkpoint_bytes":26907}
+{"event":"checkpoint","time":"2026-11-06T23:23:23.510003+00:00","mono_ns":301339624310375,"pid":32189,"worker":"A","epoch":1,"next_row":8000,"checkpoint_bytes":30300}
+{"event":"checkpoint","time":"2026-11-06T23:23:23.732545+00:00","mono_ns":301339846856541,"pid":32189,"worker":"A","epoch":1,"next_row":9000,"checkpoint_bytes":30874}
+{"event":"checkpoint","time":"2026-11-06T23:23:23.948063+00:00","mono_ns":301340062364875,"pid":32189,"worker":"A","epoch":1,"next_row":10000,"checkpoint_bytes":32976}
+Connection dropped: socket connection broken
+Transition to CONNECTING
+{"event":"checkpoint_rejected","time":"2026-11-06T23:24:04.250064+00:00","mono_ns":301380364870208,"pid":32189,"worker":"A","error":"ConnectionLoss"}
+Session has expired
+{"event":"computed","time":"2026-11-06T23:24:16.524185+00:00","mono_ns":301392639156208,"pid":32189,"worker":"A","epoch":1,"source_rows":68770,"selected_rows":869,"unique_pairs":6800,"pair_contributions":13468,"sha256":"db3fb5953e52b8316ce2c1e9d158e1e1b356bdc0f88e487505ce4bb94f2b61f9","equal_to_hw3":true}
+{"event":"записал результат","time":"2026-11-06T23:24:16.546256+00:00","mono_ns":301392661224666,"pid":32189,"worker":"A","epoch":1,"pointer_version":2}

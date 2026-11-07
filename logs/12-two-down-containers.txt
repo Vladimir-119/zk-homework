@@ -1,0 +1,4 @@
+SERVICE   STATUS
+zk1       Exited (143) 9 minutes ago
+zk2       Exited (143) 26 seconds ago
+zk3       Up 14 minutes
